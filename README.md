@@ -11,6 +11,10 @@ Curso dividido em módulos, sendo eles:
         <li>Estrutura de controle</li>
     </ul>
     <li>Node</li>
+    <ul>
+        <li>Módulos</li>
+        <li>Módulos de terceiros</li>
+    </ul>
     <li>Next</li>
     <li>Angular</li>
     <li>React</li>
