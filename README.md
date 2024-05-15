@@ -1,6 +1,6 @@
 # introducaoJS
 
-Curso dividido em etapas, sendo eles:
+Curso dividido em etapas, sendo elas:
 <ul>
     <li>Algoritmos:</li>
     <ul>
