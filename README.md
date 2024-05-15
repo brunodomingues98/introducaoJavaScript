@@ -14,7 +14,8 @@ Curso dividido em módulos, sendo eles:
     <ul>
         <li>Módulos</li>
         <li>Módulos de terceiros</li>
-        <li>Require</li>
+        <li>Módulo: Require</li>
+        <li>Módulo: Exports</li>
     </ul>
     <li>Next</li>
     <li>Angular</li>
