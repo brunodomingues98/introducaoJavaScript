@@ -20,7 +20,7 @@ Curso dividido em etapas, sendo elas:
         </ul>
         <li>Package.json</li>
         <ul>
-            <li>Importando lib Axios</li>
+            <li>Require('axios') - filtrando dados do arquivo json</li>
         </ul>
     </ul>
     <li>Next</li>
