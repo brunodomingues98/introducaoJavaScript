@@ -13,9 +13,11 @@ Curso dividido em etapas, sendo elas:
     <li>Node</li>
     <ul>
         <li>Módulos</li>
-        <li>Módulos de terceiros</li>
-        <li>Módulo: Require</li>
-        <li>Módulo: Exports</li>
+        <ul>
+            <li>Módulos de terceiros</li>
+            <li>Módulo: Require - carregar módulos do Node</li>
+            <li>Módulo: Exports - usado para exportar módulos</li>
+        </ul>
         <li>Package.json</li>
         <ul>
             <li>Importando lib Axios</li>
