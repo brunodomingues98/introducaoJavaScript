@@ -16,6 +16,10 @@ Curso dividido em etapas, sendo elas:
         <li>Módulos de terceiros</li>
         <li>Módulo: Require</li>
         <li>Módulo: Exports</li>
+        <li>Package.json</li>
+        <ul>
+            <li>Importando lib Axios</li>
+        </ul>
     </ul>
     <li>Next</li>
     <li>Angular</li>
