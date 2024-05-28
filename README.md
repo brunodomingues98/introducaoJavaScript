@@ -22,6 +22,7 @@ Curso dividido em etapas, sendo elas:
         <ul>
             <li>Require('axios') - filtrando dados do arquivo json</li>
         </ul>
+        <li>Instância única e Nova instância</li>
     </ul>
     <li>Next</li>
     <li>Angular</li>
