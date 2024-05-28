@@ -24,7 +24,7 @@ Curso dividido em etapas, sendo elas:
         </ul>
         <li>Instância única e Nova instância</li>
         <li>Objeto Global do Node</li>
-        <li>Entendo o "this"</li>
+        <li>Passando parâmetros</li>
     </ul>
     <li>Next</li>
     <li>Angular</li>
