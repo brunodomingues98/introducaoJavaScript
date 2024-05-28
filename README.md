@@ -25,6 +25,7 @@ Curso dividido em etapas, sendo elas:
         <li>Instância única e Nova instância</li>
         <li>Objeto Global do Node</li>
         <li>Passando parâmetros</li>
+        <li>Instalando dependências e scripts</li>
     </ul>
     <li>Next</li>
     <li>Angular</li>
