@@ -23,6 +23,7 @@ Curso dividido em etapas, sendo elas:
             <li>Require('axios') - filtrando dados do arquivo json</li>
         </ul>
         <li>Instância única e Nova instância</li>
+        <li>Objeto Global do Node</li>
     </ul>
     <li>Next</li>
     <li>Angular</li>
