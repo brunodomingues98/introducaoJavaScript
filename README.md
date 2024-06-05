@@ -31,6 +31,7 @@ Curso dividido em etapas, sendo elas:
             <li>Sincrono</li>
             <li>Assincrono</li>
             <li>Readdir - leitura do diretório</li>
+            <li>Escrevendo arquivo - (writeFile)</li>
         </ul>
     </ul>
     <li>Next</li>
