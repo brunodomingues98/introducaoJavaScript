@@ -26,7 +26,7 @@ Curso dividido em etapas, sendo elas:
         <li>Objeto Global do Node</li>
         <li>Passando parâmetros</li>
         <li>Instalando dependências e scripts</li>
-        <li>Leitura de arquivos</li>
+        <li>Leitura e escrita de arquivos</li>
         <ul>
             <li>Sincrono</li>
             <li>Assincrono</li>
