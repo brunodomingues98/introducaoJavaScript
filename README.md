@@ -26,6 +26,12 @@ Curso dividido em etapas, sendo elas:
         <li>Objeto Global do Node</li>
         <li>Passando parâmetros</li>
         <li>Instalando dependências e scripts</li>
+        <li>Leitura de arquivos</li>
+        <ul>
+            <li>Sincrono</li>
+            <li>Assincrono</li>
+            <li>Readdir - leitura do diretório</li>
+        </ul>
     </ul>
     <li>Next</li>
     <li>Angular</li>
