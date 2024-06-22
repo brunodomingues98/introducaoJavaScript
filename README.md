@@ -33,6 +33,8 @@ Curso dividido em etapas, sendo elas:
             <li>Readdir - leitura do diretório</li>
             <li>Escrevendo arquivo - (writeFile)</li>
         </ul>
+        <li>Middleware</li>
+        <li>API com Express</li>
     </ul>
     <li>Next</li>
     <li>Angular</li>
