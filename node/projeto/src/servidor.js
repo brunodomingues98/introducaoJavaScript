@@ -2,10 +2,14 @@ const porta = 3003
 
 const express = require('express')
 const app = express()
+const bodyParser = require('body-parser')
 const bancoDeDados = require('./bancoDeDados')
+const { extend } = require('lodash')
+
+app.use(bodyParser.urlencoded({ extended: true }))
 
 app.get('/produtos', (req, res, next) => {
-    res.send(bancoDeDados.getProdutos())
+    res.send(bancoDeDados.getProdutos( { extended: true }))
 })
 
 app.get('/produtos/:id', (req, res, next) => {
@@ -14,9 +18,23 @@ app.get('/produtos/:id', (req, res, next) => {
 
 app.post('/produtos', (req, res, next) => {
     const produto = bancoDeDados.salvarProduto({
-        nome: req.body.name,
+        nome: req.body.nome,
         preco: req.body.preco
     })
+    res.send(produto) // JSON
+})
+
+app.put('/produtos/:id', (req, res, next) => {
+    const produto = bancoDeDados.salvarProduto({
+        id: req.params.id,
+        nome: req.body.nome,
+        preco: req.body.preco
+    })
+    res.send(produto) // JSON
+})
+
+app.delete('/produtos/:id', (req, res, next) => {
+    const produto = bancoDeDados.excluirProduto(req.params.id)
     res.send(produto) // JSON
 })
 

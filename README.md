@@ -35,6 +35,14 @@ Curso dividido em etapas, sendo elas:
         </ul>
         <li>Middleware</li>
         <li>API com Express</li>
+        <ul>
+            <li>Adicionando Body Parser</li>
+            <li>Get</li>
+            <li>Get por id</li>
+            <li>Post salvar novo elemento</li>
+            <li>Put para alterar os dados</li>
+            <li>Delete</li>
+        </ul>
     </ul>
     <li>Next</li>
     <li>Angular</li>
