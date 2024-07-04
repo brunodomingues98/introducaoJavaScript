@@ -49,6 +49,12 @@ Curso dividido em etapas, sendo elas:
             <li>SetTimout</li>
         </ul>
         <li>Entrada e Saída usando Process</li>
+        <li>Revisão ESNext</li>
+        <ul>
+            <li>Revisão 1 - let e const, Template String, Destructuring</li>
+            <li>Revisão 2 - arrow function</li>
+            <li>Revisão 3 - </li>
+        </ul>
     </ul>
     <li>Next</li>
     <li>Angular</li>
