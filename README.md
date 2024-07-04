@@ -43,6 +43,11 @@ Curso dividido em etapas, sendo elas:
             <li>Put para alterar os dados</li>
             <li>Delete</li>
         </ul>
+        <li>Disparo de tarefas em Node</li>
+        <ul>
+            <li>Schedule</li>
+            <li>SetTimout</li>
+        </ul>
     </ul>
     <li>Next</li>
     <li>Angular</li>
