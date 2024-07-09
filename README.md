@@ -53,7 +53,7 @@ Curso dividido em etapas, sendo elas:
         <ul>
             <li>Revisão 1 - let e const, Template String, Destructuring</li>
             <li>Revisão 2 - arrow function</li>
-            <li>Revisão 3 - </li>
+            <li>Revisão 3 - Operadores Rest e Spread</li>
         </ul>
     </ul>
     <li>Next</li>
