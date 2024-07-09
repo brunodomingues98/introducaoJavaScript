@@ -55,6 +55,7 @@ Curso dividido em etapas, sendo elas:
             <li>Revisão 2 - arrow function</li>
             <li>Revisão 3 - Operadores Rest e Spread</li>
         </ul>
+        <li>Template - Tagged</li>
     </ul>
     <li>Next</li>
     <li>Angular</li>
