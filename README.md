@@ -56,6 +56,7 @@ Curso dividido em etapas, sendo elas:
             <li>Revisão 3 - Operadores Rest e Spread</li>
         </ul>
         <li>Template - Tagged</li>
+        <li>Estrutura Map e Set</li>
     </ul>
     <li>Next</li>
     <li>Angular</li>
