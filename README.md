@@ -58,6 +58,7 @@ Curso dividido em etapas, sendo elas:
         <li>Template - Tagged</li>
         <li>Estrutura Map e Set</li>
         <li>Laço de repetição For Of</li>
+        <li>Promises</li>
     </ul>
     <li>Next</li>
     <li>Angular</li>
