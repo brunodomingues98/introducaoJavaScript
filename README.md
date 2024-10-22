@@ -60,6 +60,8 @@ Curso dividido em etapas, sendo elas:
         <li>Laço de repetição For Of</li>
         <li>Promises</li>
         <li>Callbacks Aninhadas</li>
+        <li>Refatorando Callbacks para Promises</li>
+        <li>Async/Await</li>
     </ul>
     <li>Next</li>
     <li>Angular</li>
