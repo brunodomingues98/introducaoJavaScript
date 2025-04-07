@@ -1,76 +1,66 @@
-# introducaoJS
+# 📚 Introdução ao JavaScript (em construção)
 
-Curso dividido em etapas, sendo elas:
-<ul>
-    <li>Algoritmos:</li>
-    <ul>
-        <li>Fundamentos</li>
-        <li>Arrays</li>
-        <li>Objetos</li>
-        <li>Funções</li>
-        <li>Estrutura de controle</li>
-    </ul>
-    <li>Node</li>
-    <ul>
-        <li>Módulos</li>
-        <ul>
-            <li>Módulos de terceiros</li>
-            <li>Módulo: Require - carregar módulos do Node</li>
-            <li>Módulo: Exports - usado para exportar módulos</li>
-        </ul>
-        <li>Package.json</li>
-        <ul>
-            <li>Require('axios') - filtrando dados do arquivo json</li>
-        </ul>
-        <li>Instância única e Nova instância</li>
-        <li>Objeto Global do Node</li>
-        <li>Passando parâmetros</li>
-        <li>Instalando dependências e scripts</li>
-        <li>Leitura e escrita de arquivos</li>
-        <ul>
-            <li>Sincrono</li>
-            <li>Assincrono</li>
-            <li>Readdir - leitura do diretório</li>
-            <li>Escrevendo arquivo - (writeFile)</li>
-        </ul>
-        <li>Middleware</li>
-        <li>API com Express</li>
-        <ul>
-            <li>Adicionando Body Parser</li>
-            <li>Get</li>
-            <li>Get por id</li>
-            <li>Post salvar novo elemento</li>
-            <li>Put para alterar os dados</li>
-            <li>Delete</li>
-        </ul>
-        <li>Disparo de tarefas em Node</li>
-        <ul>
-            <li>Schedule</li>
-            <li>SetTimout</li>
-        </ul>
-        <li>Entrada e Saída usando Process</li>
-        <li>Revisão ESNext</li>
-        <ul>
-            <li>Revisão 1 - let e const, Template String, Destructuring</li>
-            <li>Revisão 2 - arrow function</li>
-            <li>Revisão 3 - Operadores Rest e Spread</li>
-        </ul>
-        <li>Template - Tagged</li>
-        <li>Estrutura Map e Set</li>
-        <li>Laço de repetição For Of</li>
-        <li>Promises</li>
-        <li>Callbacks Aninhadas</li>
-        <li>Refatorando Callbacks para Promises</li>
-        <li>Async/Await</li>
-    </ul>
-    <li>Next</li>
-    <li>Angular</li>
-    <li>React</li>
-    <li>Vue</li>
-    <li>jQuery</li>
-    <li>Bootstrap</li>
-    <li>Webpack</li>
-    <li>Gulp</li>
-    <li>MySQL</li>
-    <li>HTML e CSS</li>
-</ul>
+Este repositório contém materiais e exercícios introdutórios de **JavaScript**, voltados para iniciantes que desejam aprender os fundamentos da linguagem. Ainda está **em desenvolvimento**, com novas aulas e exemplos sendo adicionados gradualmente.
+
+---
+
+## 🚧 Status do Projeto
+
+📌 **Em construção** — Projetos e conteúdos estão sendo desenvolvidos e organizados aos poucos.
+
+---
+
+## ✨ Objetivo
+
+- Aprender os conceitos básicos de JavaScript;
+- Entender como manipular o DOM;
+- Desenvolver scripts simples com lógica de programação;
+- Criar uma base sólida para estudos mais avançados (ex: React, Node.js).
+
+---
+
+## 🧠 Tópicos previstos
+
+- Variáveis e tipos de dados
+- Operadores e estruturas de controle
+- Funções
+- Eventos
+- Manipulação do DOM
+- Arrays e objetos
+- Lógica e algoritmos básicos
+
+---
+
+## 📁 Estrutura esperada
+```
+introducaoJavaScript/
+├── aula01/              # Introdução e variáveis
+├── aula02/              # DOM e eventos
+├── aula03/              # Arrays e loops
+├── desafio-final/       # Desafio de fixação
+└── README.md
+```
+
+---
+
+## 🚀 Como acompanhar
+
+1. Clone o repositório:
+```bash
+git clone https://github.com/brunodomingues98/introducaoJavaScript.git
+```
+
+2. Navegue pelos diretórios conforme as aulas forem publicadas.
+
+3. Execute os arquivos HTML diretamente no navegador ou com **Live Server**.
+
+---
+
+## 📄 Licença
+
+Este repositório tem fins educacionais e é de livre acesso.
+
+---
+
+📬 Para dúvidas ou sugestões, entre em contato via [GitHub](https://github.com/brunodomingues98).
+
